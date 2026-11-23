@@ -1,0 +1,19 @@
+# Секрети
+.env
+
+# Сирі дані MovieLens (комітимо лише CSV в import/)
+ml-1m/
+ml-1m.zip
+*.dat
+
+# Дані та логи Neo4j з Docker
+neo4j/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS / IDE
+.DS_Store
+.vscode/
